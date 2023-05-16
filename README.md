@@ -6,7 +6,8 @@ Documenting the resources
 https://www.youtube.com/@SingleCellOmicsGermany <br>
 Single cell : https://www.youtube.com/playlist?list=PLfaSRwcfHcq3p7Xu7SMQoR-S-e3Tg_ew6  <br>
 https://www.youtube.com/@omicslogic/videos <br>
-Spatial omics data analysis *https://www.youtube.com/playlist?list=PLBsJUKzoJTHSfWrLhCPCN-_vVU-klEi6p*  <br>
+**Spatial omics data analysis https://www.youtube.com/playlist?list=PLBsJUKzoJTHSfWrLhCPCN-_vVU-klEi6p**  <br>
+^ course for above https://uppsala.instructure.com/courses/58516 <br>
 
 # Papers
 STAGATE : https://www.nature.com/articles/s41467-022-29439-6#Sec1 <br>
@@ -20,3 +21,5 @@ ScanPy : https://scanpy.readthedocs.io/en/stable/tutorials.html <br>
 scvi : https://docs.scvi-tools.org/en/stable/tutorials/index.html <br>
 PyroAI ScanANVI : https://pyro.ai/examples/scanvi.html <br>
 Scanpy&scvi Tutorial : https://ccbskillssem.github.io/assets/scvi_notebook.html  <br>
+
+
