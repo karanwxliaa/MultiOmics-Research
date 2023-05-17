@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=O3QzXWPjc74&ab_channel=CompBioSkillsSeminarUCBer
 
 
 ## Papers
-**Read:**
+**Read:** <br>
 **STAGATE** : https://www.nature.com/articles/s41467-022-29439-6#Sec1 <br>
 ^documentation: https://stagate.readthedocs.io/en/latest/index.html <br>
 ^github: https://github.com/QIFEIDKN/STAGATE / https://github.com/zhanglabtools/STAGATE/tree/main <br>
@@ -22,7 +22,7 @@ GLUE : https://www.nature.com/articles/s41587-022-01284-4#Sec8 <br>
 All omics overview : https://www.nature.com/articles/s41576-023-00586-w#Sec35 <br>
 SC practices book : https://www.sc-best-practices.org/introduction/prior_art.html <br>
 
-**To Read:**
+**To Read:** <br>
 Matilda : https://academic.oup.com/nar/article/51/8/e45/7076464?login=false <br>
 https://www.nature.com/articles/s43588-022-00266-5 <br>
 https://www.nature.com/articles/s41592-022-01560-w <br>
