@@ -10,7 +10,7 @@
 **GraphST** : https://www.nature.com/articles/s41467-023-36796-3 <br>
   > ^documentation: https://deepst-tutorials.readthedocs.io/en/latest/Installation.html <br>
   > ^github: https://github.com/JinmiaoChenLab/GraphST <br>
-  > > ^dataset: https://zenodo.org/record/6925603#.YuM5WXZBwuU <br>
+  > ^dataset: https://zenodo.org/record/6925603#.YuM5WXZBwuU <br>
 
 GLUE : https://www.nature.com/articles/s41587-022-01284-4#Sec8 <br>
 All omics overview : https://www.nature.com/articles/s41576-023-00586-w#Sec35 <br>
