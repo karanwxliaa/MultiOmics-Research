@@ -7,6 +7,10 @@
   > ^documentation: https://stagate.readthedocs.io/en/latest/index.html <br>
   > ^github: https://github.com/QIFEIDKN/STAGATE / https://github.com/zhanglabtools/STAGATE/tree/main <br>
 
+**GraphST** : https://www.nature.com/articles/s41467-023-36796-3 <br>
+  > ^documentation: https://deepst-tutorials.readthedocs.io/en/latest/Installation.html <br>
+  > ^github: https://github.com/JinmiaoChenLab/GraphST <br>
+
 GLUE : https://www.nature.com/articles/s41587-022-01284-4#Sec8 <br>
 All omics overview : https://www.nature.com/articles/s41576-023-00586-w#Sec35 <br>
 SingleCell practices book : https://www.sc-best-practices.org/introduction/prior_art.html <br>
