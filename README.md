@@ -21,7 +21,9 @@ GraphST: https://www.nature.com/articles/s41467-023-36796-3 <br>
 Matilda : https://academic.oup.com/nar/article/51/8/e45/7076464?login=false <br>
 Sprod : https://www.nature.com/articles/s41592-022-01560-w <br>
 SpaTalk : https://www.nature.com/articles/s41467-022-32111-8 <br>
+Multigrate : https://www.biorxiv.org/content/10.1101/2022.03.16.484643v1.full.pdf <br>
 https://www.nature.com/articles/s43588-022-00266-5 <br>
+
 
 
 ## Tools
