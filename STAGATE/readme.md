@@ -6,6 +6,8 @@
       2. Move the *Barcode* column from the 3rd to 1st column (To use barcodes as labels)<br>
 ### Code:<br>
       1. Several architectural changes to incorporate TFv2<br>
-      2. Change the .toarrey() in line 58 of train_STAGATE.py file<br>
-      3. Add *tf.compat.v1.disable_eager_execution()* to avoid eager execution erros<br>
-      4. A few other changes with packages and dependencies can be solved on the spot<br>
+      2. Add *tf.compat.v1.disable_eager_execution()* to avoid eager execution erros<br>
+      3. A few other changes with packages and dependencies can be solved on the spot<br>
+      
+      Optional:
+      4. Change the .toarrey() in line 58 of train_STAGATE.py file<br>
