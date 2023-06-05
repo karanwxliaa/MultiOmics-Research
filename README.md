@@ -51,6 +51,7 @@ Seurat : R
 Single cell : https://www.youtube.com/playlist?list=PLfaSRwcfHcq3p7Xu7SMQoR-S-e3Tg_ew6  <br>
 https://www.youtube.com/@omicslogic/videos <br>
 https://www.youtube.com/@SingleCellOmicsGermany <br>
+multi omic data integration using message passing: https://www.youtube.com/watch?v=sgGAl2ZAxiA&ab_channel=winsseminar <br>
 
 **Spatial omics data analysis https://www.youtube.com/playlist?list=PLBsJUKzoJTHSfWrLhCPCN-_vVU-klEi6p**  <br>
 > ^ course for above https://uppsala.instructure.com/courses/58516 <br>
