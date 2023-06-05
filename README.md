@@ -36,6 +36,9 @@ Seurat
 
 
 ## Youtube chanels / vids
+
+GVAE explination and training code : https://www.youtube.com/watch?v=xoSU9aDSy4U&list=PLV8yxwGOxvvoNkzPfCx2i8an--Tkt7O8Z&index=13&ab_channel=DeepFindr <br>
+
 https://www.youtube.com/@SingleCellOmicsGermany <br>
 Single cell : https://www.youtube.com/playlist?list=PLfaSRwcfHcq3p7Xu7SMQoR-S-e3Tg_ew6  <br>
 https://www.youtube.com/@omicslogic/videos <br>
