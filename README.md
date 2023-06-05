@@ -23,6 +23,7 @@ Sprod : https://www.nature.com/articles/s41592-022-01560-w <br>
 SpaTalk : https://www.nature.com/articles/s41467-022-32111-8 <br>
 Multigrate : https://www.biorxiv.org/content/10.1101/2022.03.16.484643v1.full.pdf <br>
 https://www.nature.com/articles/s43588-022-00266-5 <br>
+Variational Graph Auto-encoders (VGAE) : https://arxiv.org/abs/1611.07308 <br>
 
 
 
@@ -42,3 +43,5 @@ https://www.youtube.com/@omicslogic/videos <br>
 ^ course for above https://uppsala.instructure.com/courses/58516 <br>
 https://www.youtube.com/watch?v=O3QzXWPjc74&ab_channel=CompBioSkillsSeminarUCBerkeley <br> 
 ^ notebook for this vid https://yu-tong-wang.github.io/talk/sc_st_data_analysis_R.html <br>
+
+VGAE : https://www.youtube.com/watch?v=qA6U4nIK62E <br>
