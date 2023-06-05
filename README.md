@@ -23,6 +23,8 @@
   > ^youtube: https://www.youtube.com/watch?v=qdLH4dmHdkQ&ab_channel=Bioconductor <br>
   > ^dataset: <br>
 
+**TotalVI** : https://www.nature.com/articles/s41592-020-01050-x <br>
+
 All omics overview : https://www.nature.com/articles/s41576-023-00586-w#Sec35 <br>
 SingleCell practices book : https://www.sc-best-practices.org/introduction/prior_art.html <br>
 
