@@ -36,9 +36,6 @@ Seurat
 
 
 ## Youtube chanels / vids
-
-GVAE explination and training code : https://www.youtube.com/watch?v=xoSU9aDSy4U&list=PLV8yxwGOxvvoNkzPfCx2i8an--Tkt7O8Z&index=13&ab_channel=DeepFindr <br>
-
 https://www.youtube.com/@SingleCellOmicsGermany <br>
 Single cell : https://www.youtube.com/playlist?list=PLfaSRwcfHcq3p7Xu7SMQoR-S-e3Tg_ew6  <br>
 https://www.youtube.com/@omicslogic/videos <br>
@@ -48,3 +45,4 @@ https://www.youtube.com/watch?v=O3QzXWPjc74&ab_channel=CompBioSkillsSeminarUCBer
 ^ notebook for this vid https://yu-tong-wang.github.io/talk/sc_st_data_analysis_R.html <br>
 
 VGAE : https://www.youtube.com/watch?v=qA6U4nIK62E <br>
+GVAE explination and training code : https://www.youtube.com/watch?v=xoSU9aDSy4U&list=PLV8yxwGOxvvoNkzPfCx2i8an--Tkt7O8Z&index=13&ab_channel=DeepFindr <br>
