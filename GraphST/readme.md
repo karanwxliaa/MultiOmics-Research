@@ -1,8 +1,21 @@
 # GraphST
 
-## Unable to upload the Sterio-Seq Data for Tutoria_3:<br>
+## Tutorial wise dataset usage:<br>
+    1. Tutorial_1: 10xVisium (Genomics)
+    2. Tutorial_2: Sterio-Seq (Mouse_Embryo) (Genomics)
+    3. Tutorial_Landau_rep_1: GSE198353_spleen_rep_1 (from SPOTS paper) (Genomics)
+    4. Tutorial_Landau_rep_2: GSE198353_spleen_rep_2 (from SPOTS paper) (Genomics)
+    5. Tutorial_PGNO_GSM5764423: Spatial_Proteogenomics_GSM_5764423 (Genomics)
+    6. Tutorial_PGNO_GSM5764424: Spatial_Proteogenomics_GSM_5764424 (Genomics)
 
-You can download the data from here: https://drive.google.com/drive/folders/1QWHFMzhQ7WorVNLwx88xT-rbojf4nh9T
+## Sterio-Seq Data for Tutorial_3:<br>
+
+You can download the data from here: https://drive.google.com/drive/folders/1QWHFMzhQ7WorVNLwx88xT-rbojf4nh9T <br>
+
+## Data for remaining tutorials:<br>
+
+You can download the data from here: https://drive.google.com/drive/folders/1VBeDHMYrI-DEf3LCqeK8aCxnXbT-btYB?usp=drive_link <br>
+The data includes Proteogenomics data, SPOTS Landau data and Spatial CITEseq data
 
 ## Code:<br>
       1. Followed the documentation available at: https://deepst-tutorials.readthedocs.io/en/latest/Tutorial%203_Stereo-seq.html
