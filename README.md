@@ -62,3 +62,4 @@ https://www.youtube.com/watch?v=O3QzXWPjc74&ab_channel=CompBioSkillsSeminarUCBer
 Variational Graph AutoEncoders:
  > ^ VGAE : https://www.youtube.com/watch?v=qA6U4nIK62E <br>
  > ^ GVAE explination and training code : https://www.youtube.com/watch?v=xoSU9aDSy4U&list=PLV8yxwGOxvvoNkzPfCx2i8an--Tkt7O8Z&index=13&ab_channel=DeepFindr <br>
+ > ^ Adversarial Regularizer VGAE : ^ VGAE : https://www.youtube.com/watch?v=qA6U4nIK62E <br>
