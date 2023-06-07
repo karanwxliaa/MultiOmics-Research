@@ -39,8 +39,11 @@ https://www.nature.com/articles/s43588-022-00266-5 <br>
 https://www.nature.com/articles/s41592-020-01050-x <br>
 
 ## Tools
-ScanPy : https://scanpy.readthedocs.io/en/stable/tutorials.html <br>
-scvi : https://docs.scvi-tools.org/en/stable/tutorials/index.html <br>
+ScanPy : 
+> https://scanpy.readthedocs.io/en/stable/tutorials.html <br>
+> https://scanpy-tutorials.readthedocs.io/en/multiomics/cite-seq/pbmc5k.html
+
+Scvi : https://docs.scvi-tools.org/en/stable/tutorials/index.html <br>
 PyroAI ScanANVI : https://pyro.ai/examples/scanvi.html <br>
 Scanpy&scvi Tutorial : https://ccbskillssem.github.io/assets/scvi_notebook.html  <br>
 Seurat : R
