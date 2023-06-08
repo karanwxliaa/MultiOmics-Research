@@ -1,0 +1,14 @@
+LICENSE
+README.rst
+setup.py
+STAGATE/STAGATE.py
+STAGATE/Train_STAGATE.py
+STAGATE/__init__.py
+STAGATE/model.py
+STAGATE/utils.py
+STAGATE.egg-info/PKG-INFO
+STAGATE.egg-info/SOURCES.txt
+STAGATE.egg-info/dependency_links.txt
+STAGATE.egg-info/not-zip-safe
+STAGATE.egg-info/requires.txt
+STAGATE.egg-info/top_level.txt
