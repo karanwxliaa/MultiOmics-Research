@@ -61,17 +61,19 @@ Graph convolutional autoencoders are used to learn latent representations of the
 The latent representations are then used for downstream tasks such as clustering, where spatial relationships contribute to the clustering process. 
 
 ## Architecture 3
+```
 *High-Level Diagram:*
-```mermaid
+
+
 graph LR
 
 J(Multi-Omic Data) --> L(Variational Autoencoder)
 K(Spatial Data) --> L
 L --> N(Clustering)
 L --> M(Spatial Graph Embeddings)
-```
+
 *Low-Level Diagram:*
-```mermaid
+
 graph TD
 subgraph Architecture 3
     J(Multi-Omic Data)
@@ -94,6 +96,7 @@ subgraph Architecture 3
     J --> P
     P --> Q
     end
+
 ```
 **Architecture 3: Variational Autoencoder with Spatial Graph Embeddings** <br>
 Variational autoencoders (VAEs) are employed to model the latent space of each omic type. 
