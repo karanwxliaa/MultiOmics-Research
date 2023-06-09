@@ -5,10 +5,11 @@
     2. Tutorial_2: Sterio-Seq (Mouse_Embryo) (Genomics)
     3. Tutorial_Landau_rep_1: GSE198353_spleen_rep_1 (from SPOTS paper) (Genomics)
     4. Tutorial_Landau_rep_2: GSE198353_spleen_rep_2 (from SPOTS paper) (Genomics)
-    5. Tutorial_Landau_GSE198353_mmtv_pymt: GSE198353_mmtv_pymt (from SPOTS paper) (Proteinomics)
-    6. Tutorial_PGNO_GSM5764423: Spatial_Proteogenomics_GSM_5764423 (Genomics)
-    7. Tutorial_PGNO_GSM5764424: Spatial_Proteogenomics_GSM_5764424 (Genomics)
-    8. Tutorial_PGNO_GSM5764423_Protein: Spatial_Proteogenomics_GSM_5764423 (Proteinomics)
+    5. Tutorial_Landau_GSE198353_mmtv_pymt: GSE198353_mmtv_pymt (from SPOTS paper) (Genomics)
+    6. Tutorial_Landau_GSE198353_mmtv_pymt_Protein: GSE198353_mmtv_pymt (from SPOTS paper) (Proteinomics)
+    7. Tutorial_PGNO_GSM5764423: Spatial_Proteogenomics_GSM_5764423 (Genomics)
+    8. Tutorial_PGNO_GSM5764424: Spatial_Proteogenomics_GSM_5764424 (Genomics)
+    9. Tutorial_PGNO_GSM5764423_Protein: Spatial_Proteogenomics_GSM_5764423 (Proteinomics)
 
 ## Sterio-Seq Data for Tutorial_3:<br>
 
