@@ -3,9 +3,9 @@
 ```mermaid
 graph LR
 A(Multi-Omic Data) --> C(Multi-Omic Autoencoder)
-B(Spatial Data) --> C
+B(Spatial Data) --> D(Spatial Attention)
 C --> E(Clustering)
-D(Spatial Attention) --> C
+D --> C
 ```
 *Low-Level Diagram:*
 ```mermaid
@@ -18,7 +18,7 @@ subgraph Architecture 1
     E(Clustering)
     
     A --> C[Multi-Omic Encoder]
-    B --> C
+    B --> D
     C --> E
     D --> C
     end
