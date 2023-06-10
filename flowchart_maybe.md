@@ -61,18 +61,20 @@ Graph convolutional autoencoders are used to learn latent representations of the
 The latent representations are then used for downstream tasks such as clustering, where spatial relationships contribute to the clustering process. 
 
 ## Architecture 3
-```
 *High-Level Diagram:*
+```mermaid
 
 
 graph LR
 
 J(Multi-Omic Data) --> L(Variational Autoencoder)
-K(Spatial Data) --> L
+K(Spatial Data) --
 L --> N(Clustering)
 L --> M(Spatial Graph Embeddings)
+```
 
 *Low-Level Diagram:*
+```mermaid
 
 graph TD
 subgraph Architecture 3
@@ -167,3 +169,36 @@ subgraph Architecture 5
 Dual-path autoencoders are utilized to learn separate latent representations for each omic type while preserving their unique characteristics. 
 Spatial information is incorporated through graph convolutional layers, which capture spatial dependencies and encode them in the latent space. 
 The fused latent representations and spatial graph convolutions are employed for downstream tasks such as spatial clustering. 
+
+## Architecture 6
+*High-Level Diagram:*
+```mermaid
+graph LR
+
+T(Multi-Omic Data) --> V(Graph Variational Autoencoder)
+U(Spatial Data) --> V
+V --> X(Clustering)
+V --> W(Adversarial Network)
+W --> V
+```
+*Low-Level Diagram:*
+```mermaid
+graph TD
+
+subgraph Architecture 5
+    T(Multi-Omic Data)
+    U(Spatial Data)
+    V(Graph Variational Autoencoder)
+    W(Adversarial Network)
+    X(Clustering)
+    
+    T --> V
+    U --> V
+    V --> W
+    W --> V
+    W --> X
+    end
+```
+**Architecture 6: Graph Variational Autoencoder with Adversarial Network** <br>
+Graph Variational autoencoders are utilized to learn separate latent representations for each omic type while preserving their unique characteristics. 
+Spatial information is incorporated through graph convolutional layers, which capture spatial dependencies and encode them in the latent space. The latent space is further modified using an Adversarial Network which compares a fake sample witha a real sample using a Discriminator and gives a confidence score of 0 or 1. The modified fused latent representations and spatial graph convolutions are employed for downstream tasks such as spatial clustering. 
