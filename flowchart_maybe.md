@@ -185,7 +185,7 @@ W --> V
 ```mermaid
 graph TD
 
-subgraph Architecture 5
+subgraph Architecture 6
     T(Multi-Omic Data)
     U(Spatial Data)
     V(Graph Variational Autoencoder)
