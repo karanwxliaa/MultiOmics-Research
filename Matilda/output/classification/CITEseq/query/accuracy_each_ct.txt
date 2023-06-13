@@ -1,0 +1,11 @@
+cell type ID:  0 	 	 cell type: B.Activated 	 	 prec : tensor(61.6886) number: 180
+cell type ID:  1 	 	 cell type: B.Naive 	 	 prec : tensor(99.0577) number: 802
+cell type ID:  2 	 	 cell type: DC.Myeloid 	 	 prec : tensor(45.4545) number: 11
+cell type ID:  3 	 	 cell type: Mono.CD14 	 	 prec : tensor(99.5212) number: 639
+cell type ID:  4 	 	 cell type: Mono.CD16 	 	 prec : tensor(62.0690) number: 37
+cell type ID:  5 	 	 cell type: NK 	 	 prec : tensor(97.4359) number: 283
+cell type ID:  6 	 	 cell type: Platelets 	 	 prec : tensor(41.6667) number: 12
+cell type ID:  7 	 	 cell type: T.CD4.Memory 	 	 prec : tensor(68.6381) number: 1189
+cell type ID:  8 	 	 cell type: T.CD4.Naive 	 	 prec : tensor(81.4545) number: 1020
+cell type ID:  9 	 	 cell type: T.CD8.Effector 	 	 prec : tensor(87.1302) number: 576
+cell type ID:  10 	 	 cell type: T.CD8.Naive 	 	 prec : tensor(84.0833) number: 299
