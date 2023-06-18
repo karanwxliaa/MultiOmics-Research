@@ -25,6 +25,13 @@
 
 **TotalVI** : https://www.nature.com/articles/s41592-020-01050-x <br>
 
+**Clip** : https://arxiv.org/abs/2103.00020 <br>
+  > ^website: https://openai.com/research/clip <br>
+  > ^simpler_documentation: (Tensorflow)https://www.kaggle.com/code/moeinshariatnia/openai-clip-simple-implementation/notebook <br>
+                            (Pytorch)https://towardsdatascience.com/simple-implementation-of-openai-clip-model-a-tutorial-ace6ff01d9f2 <br>
+  > ^github: https://github.com/openai/CLIP <br>
+  > ^youtube: https://youtu.be/T9XSU0pKX2E <br>
+
 All omics overview : https://www.nature.com/articles/s41576-023-00586-w#Sec35 <br>
 SingleCell practices book : https://www.sc-best-practices.org/introduction/prior_art.html <br>
 
