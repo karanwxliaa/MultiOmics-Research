@@ -73,3 +73,16 @@ Variational Graph AutoEncoders:
  > ^ VGAE : https://www.youtube.com/watch?v=qA6U4nIK62E <br>
  > ^ GVAE explaination and training code : https://www.youtube.com/watch?v=xoSU9aDSy4U&list=PLV8yxwGOxvvoNkzPfCx2i8an--Tkt7O8Z&index=13&ab_channel=DeepFindr <br>
  > ^ Adversarial Regularizer VGAE : https://www.youtube.com/watch?v=qA6U4nIK62E <br>
+
+## Common errors:
+ > To run rpy2 if not able to import it, run this code instead.
+```
+import os
+os.environ["R_HOME"] = r"C:\Program Files\R\R-4.3.0"
+os.environ["PATH"]   = r"C:\Program Files\R\R-4.3.0\bin\x64" + ";" + os.environ["PATH"]
+import rpy2
+import rpy2.robjects as robjects
+from rpy2.robjects import pandas2ri, packages
+pandas2ri.activate()
+stats = packages.importr('stats')
+```
