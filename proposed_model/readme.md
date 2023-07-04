@@ -1,11 +1,15 @@
-# RESULTS <br>
-## Stereo CITE Seq (51 proteins)* <br>
+![image](https://github.com/karanwxliaa/MultiOmics-Research/assets/95328038/769dc753-2547-46bc-9375-5652756ebeda)# RESULTS <br>
+## Stereo CITE Seq (51 proteins)* <br> 
 ![image](https://github.com/karanwxliaa/MultiOmics-Research/assets/95328038/35313c54-ce9c-4ceb-b1b9-4cdf909a076f)
+
+### (8 Clusters)
 ![image](https://github.com/karanwxliaa/MultiOmics-Research/assets/95328038/ddc0c62d-9686-428e-b347-06c13232f414)
 ![image](https://github.com/karanwxliaa/MultiOmics-Research/assets/95328038/2d7f14e5-2eb4-4977-989b-70c82684a07f)
 ![image](https://github.com/karanwxliaa/MultiOmics-Research/assets/95328038/428205ac-e067-426b-93b2-f52b1b6d0716)
 
-
+### (10 / 12 CLusters) *Mclust*
+![image](https://github.com/karanwxliaa/MultiOmics-Research/assets/95328038/498140fa-ce45-4248-b227-b38e12b08d2f)
+![image](https://github.com/karanwxliaa/MultiOmics-Research/assets/95328038/fa1bf1a2-1c79-4bf9-80c1-b256f7ef22f7)
 
 
 
