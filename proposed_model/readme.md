@@ -1,4 +1,4 @@
-![image](https://github.com/karanwxliaa/MultiOmics-Research/assets/95328038/769dc753-2547-46bc-9375-5652756ebeda)# RESULTS <br>
+# RESULTS <br>
 ## Stereo CITE Seq (51 proteins)* <br> 
 ![image](https://github.com/karanwxliaa/MultiOmics-Research/assets/95328038/35313c54-ce9c-4ceb-b1b9-4cdf909a076f)
 
