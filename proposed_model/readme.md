@@ -1,5 +1,15 @@
 # RESULTS <br>
-*Landau spots dataset (32 proteins)* <br>
+## Stereo CITE Seq (51 proteins)* <br>
+![image](https://github.com/karanwxliaa/MultiOmics-Research/assets/95328038/35313c54-ce9c-4ceb-b1b9-4cdf909a076f)
+![image](https://github.com/karanwxliaa/MultiOmics-Research/assets/95328038/ddc0c62d-9686-428e-b347-06c13232f414)
+![image](https://github.com/karanwxliaa/MultiOmics-Research/assets/95328038/2d7f14e5-2eb4-4977-989b-70c82684a07f)
+![image](https://github.com/karanwxliaa/MultiOmics-Research/assets/95328038/428205ac-e067-426b-93b2-f52b1b6d0716)
+
+
+
+
+
+## *Landau spots dataset (32 proteins)* <br>
 
 ### 1. STAGATE results on (11.4 avg neighbours) <br>
 *-Genes* <br>
