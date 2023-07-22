@@ -32,6 +32,14 @@
   > ^github: https://github.com/openai/CLIP <br>
   > ^youtube: https://youtu.be/T9XSU0pKX2E <br>
 
+**Contrastive Learning on Graphs (GRACE)** : http://proceedings.mlr.press/v119/hassani20a.html <br>
+  > ^github: https://github.com/CRIPAC-DIG/GRACE <br>
+
+**PRECAST** : http://proceedings.mlr.press/v119/hassani20a.html <br>
+  > ^documentation: https://feiyoung.github.io/PRECAST/articles/PRECAST.Simu.html <br>
+  > ^github: (Main)https://github.com/feiyoung/PRECAST <br>
+             (Analysis)https://github.com/feiyoung/PRECAST_Analysis <br>
+
 All omics overview : https://www.nature.com/articles/s41576-023-00586-w#Sec35 <br>
 SingleCell practices book : https://www.sc-best-practices.org/introduction/prior_art.html <br>
 
